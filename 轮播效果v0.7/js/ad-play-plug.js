@@ -20,7 +20,7 @@ $.fn.extend({
 		options = $.extend({
 			hover: "current",
 			speed: 300,
-			interval: 1000,
+			interval: 3000,
 			changeWay: "up",
 			isAuto: true,
 			arrUrl: null
